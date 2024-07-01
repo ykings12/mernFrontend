@@ -1,0 +1,12 @@
+.apexcharts-menu {
+    background-color: black !important;
+  }
+  
+  .apexcharts-menu-item {
+    color: white !important;
+  }
+  
+  .apexcharts-menu-item:hover {
+    background-color: #dd6d18 !important;
+    color: #FFFFFF !important;
+  }
